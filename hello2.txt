@@ -1,0 +1,3 @@
+Hi I am Tommy again,
+Today is 09/21 Wednesday,
+I practice my git and vim.
