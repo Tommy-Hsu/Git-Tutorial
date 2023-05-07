@@ -4,3 +4,5 @@
 - https://www.youtube.com/watch?v=CeC_qyQHiCE (SSH)
 - https://iter01.com/509990.html
 ## 自己操作
+
+https://hackmd.io/@hpc880214/B1cbQcdbs
